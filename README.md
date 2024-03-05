@@ -10,9 +10,8 @@ https://saraelz.github.io/guessing-goose-ml-cnn/
 
 
 ### Client-Side Execution with Tensorflow.js
-Website uses `Tensorflow.js` to run client-side Tensorflow Models. This means
-that my code runs in your browser with no backend. The model
-was trained in `Python` using `Keras`, then exported to Tensorflow.
+Website uses `Tensorflow.js` to run client-side Tensorflow Models. Due to speed and resources, my code runs 
+in your browser with no backend. The model was trained in `Python` using `Keras`, then exported to Tensorflow.
 
 ### Front-end
 Written in React + Typescript. In order to make the website responsive,
