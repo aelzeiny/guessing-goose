@@ -15,7 +15,4 @@ in your browser with no backend. The model was trained in `Python` using `Keras`
 
 ### Front-end
 Written in React + Typescript. In order to make the website responsive,
-all ML processing runs in the background with service-workers. 
-
-### Collaboration
-For collaboration on the React framework and Typescript side of this project, I give credits to Amanda Liu.
+all ML processing runs in the background with service-workers. For collaboration on React and Typescript, I give credits to Amanda Liu.
